@@ -39,8 +39,3 @@ class Song
 
 end
 
-
-
-
-# new_song = song.new("Yummy", "Justin Bieber", "Pop")
-# new_song.name = "Intention"
